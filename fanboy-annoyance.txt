@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 185TRMeyPdKufgTyMXWWZg
-! Version: 202410301040
+! Checksum: 2fo86Nu+P5aBddQ00D6NVA
+! Version: 202410301715
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-10-30 10:40 UTC
+! Last modified: 2024-10-30 17:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -32295,6 +32295,8 @@ dashboard.razorpay.com#@##credential_picker_container
 ||t.pridat.eu^$third-party
 ||trendemon.com^$third-party
 ||twinesocial.com^$third-party
+||twitter.com/account/$third-party
+||twitter.com/i/jot
 ||twitter.com/js/timeline.$script,third-party
 ||usocial.pro^$third-party
 ||vk.com/share.php?$third-party
