@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3L6I/IJLvi+DgS6Cce6x/g
-! Version: 202411010001
+! Checksum: q+bZ2tx+tYLs2GyqY2URmQ
+! Version: 202411010550
 ! Title: Fanboy's Social Blocking List
-! Last modified: 01 Nov 2024 00:01 UTC
+! Last modified: 01 Nov 2024 05:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11391,6 +11391,7 @@ japan.go.jp##.gov_sns
 kick.com##.group.flex.w-40.items-center.space-x-2.text-xs.font-bold.text-gray-400.hover\:text-primary
 gadgets360.com##.gsocialbar
 atlanticcouncil.org##.gta-hover-share-container
+publicradiotulsa.org##.gtm_share
 egotastic.com,egotasticsports.com##.h-fixed-footer
 jam-news.net##.has-medium-font-size.has-background
 hard-drive.net##.hd-discord
@@ -11692,7 +11693,7 @@ fintech.tv,war.ukraine.ua##.share-news
 thehackernews.com##.share-open-modal
 bdnews24.com##.share-option
 ig.com.br,rebelnews.com##.share-page
-advocate.com,comicsands.com,commondreams.org,gbnews.com,spectrum.ieee.org,theblaze.com,thefulcrum.us,upworthy.com##.share-panel
+advocate.com,bestlifeonline.com,comicsands.com,commondreams.org,gbnews.com,spectrum.ieee.org,theblaze.com,thefulcrum.us,upworthy.com##.share-panel
 forward.com##.share-post
 thenationalpulse.com##.share-post-button
 aajtak.in,gnttv.com,indiatoday.in,indiatodayne.in##.share-social-icons
