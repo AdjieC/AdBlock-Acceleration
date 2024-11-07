@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3tHmeoAC5M6JLNZN2rMSWg
-! Version: 202411071140
+! Checksum: XWctZ6dWhPCKl859SZ9Olw
+! Version: 202411071740
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-11-07 11:40 UTC
+! Last modified: 2024-11-07 17:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1569,6 +1569,7 @@ _social_footer_
 /super-cookie/swfobject/swfobject.js
 /superCookie-min.js
 /SwagCookiePermission/*
+/syrenis-cookie-management.js
 /ta2021-plugin-cookie-consent/build/bundle.
 /tab-consent-manager.js
 /tarteaucitron.js
@@ -1637,7 +1638,6 @@ _social_footer_
 /zgdpr.min.js
 /zigcookie.js
 /zoner-cookies.js
-/syrenis-cookie-management.js
 ://ccm.*/app.js?
 ! autoscout24
 /as24-cmp/consent-banner/*
