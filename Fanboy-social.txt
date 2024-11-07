@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3uHHt/+yeRb8v9Nl01B4eg
-! Version: 202411061741
+! Checksum: A9tzK7ZCKgbWE1AI1zgiDQ
+! Version: 202411062351
 ! Title: Fanboy's Social Blocking List
-! Last modified: 06 Nov 2024 17:41 UTC
+! Last modified: 06 Nov 2024 23:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12153,6 +12153,8 @@ neon.tech#?#.justify-between.items-center:-abp-contains(Share:)
 newskarnataka.com#?#.elementor-button-wrapper:-abp-contains(Social Media)
 newsroom.ucla.edu#?#.promo-card-muted:-abp-contains(RSS feed)
 openculture.com#?#.execphpwidget:-abp-contains(FREE UPDATES!)
+!! top-level domain wildcard
+royalqueenseeds.*##.social-media-icons-footer
 !! .social-sharing
 byjus.com,commentpicker.com,hakaimagazine.com,hollywoodlife.com,homemark.co.za,ilgiornale.it,malaymail.com,maxabout.com,ncbi.nlm.nih.gov,news24.com,nu.nl,politico.eu,thepostmillennial.com##.social-sharing
 !! .share-group
@@ -13475,6 +13477,7 @@ elmundo.es##.ue-c-article__share-tools
 eluniversal.com.mx##.uni_videoRedes
 europafm.com,ondacero.es##.vermas
 elpais.com##.w_rs
+abc.com.py##.whatsapp-button-container
 unanimodeportes.com##.widget_custom_html
 telesurtv.net##.wpRedesFoot
 upday.com##div[class^="ShareButton_"]
