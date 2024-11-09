@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 65OxBkqgi8/5YNtDq4ejzA
-! Version: 202411081740
+! Checksum: JhBGX1vWZTQnllX1yoSnXA
+! Version: 202411082340
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-11-08 17:40 UTC
+! Last modified: 2024-11-08 23:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -733,6 +733,7 @@ _social_footer_
 /am2-gdpr-public.js
 /amasty/amgdpr/cookie.js
 /amasty/amgdpr/main.js
+/amasty_gdprfrontendui/*
 /amCookieApproval.min.js
 /amds-cookies.js
 /amp-consent-
@@ -48958,6 +48959,7 @@ withings.com#@#.cookie_container
 withings.com#@#.cookie_message
 mitsubishielectric.com#@#.cookie_policy
 sonyliv.com#@#.cookie_popup
+gardengirls.de#@#.cookie_section
 inkblot.art,marokko.nl#@#.cookiealert
 schleswig-holstein.de#@#.cookiebanner:not(body)
 vandebron.nl#@#.cookiebar-container
@@ -49099,6 +49101,7 @@ squla.nl#@#div.cookie-popup
 bensanitair.nl,correosexpress.com,dreher.it,gov.lv,milesandbarr.co.uk,puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.destentor.nl,puzzels.ed.nl,puzzels.gelderlander.nl,puzzels.parool.nl,puzzels.pzc.nl,puzzels.trouw.nl,puzzels.tubantia.nl,puzzels.volkskrant.nl,statestreet.com#@#div.cookie-wrapper
 altenberg-dom.de#@#div.cookieHolder
 sonyliv.com#@#div.cookie_popup
+gardengirls.de#@#div.cookiebanner
 azerty.nl,cnvinternationaal.nl,dt.mef.gov.it,vorwahlen-online.de#@#div.cookiebar
 iledefrance-mobilites.fr#@#div.cookies-banner
 bazaar-online.gr,stergioufamily.gr#@#div.cookies-modal-container
