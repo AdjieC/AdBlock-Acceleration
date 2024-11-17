@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7OsWTjxCI26WTr4uNPyHRw
-! Version: 202411170440
+! Checksum: +lBnnQRg0V9eVx0HZHKeqg
+! Version: 202411171115
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-11-17 04:40 UTC
+! Last modified: 2024-11-17 11:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -34305,6 +34305,7 @@ hackread.com##.pk-scroll-to-top
 bingehulu.com##.progress-wrap
 agenciasinc.es##.pujar_adalt
 ca.gov,medlineplus.gov,muslimshop.fr##.return-top
+rsc.org##.returntotop
 magazine.medlineplus.gov,pronouns.page##.scroll-btn
 eatsmarter.com##.scroll-button
 timesofmalta.com##.scroll-notification-container
@@ -38654,6 +38655,7 @@ itinari.com##.root-8abb4
 itinari.com##.root-bca09
 totalserversolutions.com##.rplm-alert
 seamless.ai##.rs-message-info
+rsc.org##.rsc-onetrust-cookie-footer
 limaeasy.com##.rstbox
 jeffs.com,scandinaviansoul.com##.rstboxes
 hangseng.com##.rwd-header-cookie-section
