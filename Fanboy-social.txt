@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: efmQU4s8xS6oTJl/jD9Qeg
-! Version: 202411170001
+! Checksum: hGhpy9dBZyYVmL+0RgpxwA
+! Version: 202411170550
 ! Title: Fanboy's Social Blocking List
-! Last modified: 17 Nov 2024 00:01 UTC
+! Last modified: 17 Nov 2024 05:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11451,6 +11451,7 @@ inews.co.uk##.inews__post-share
 labiotech.eu##.inline-block.space-y-8
 mainichi.jp##.inline-list
 winnipegfreepress.com##.interactive
+insideevs.com##.isBottomShare
 iphoneincanada.ca,teslanorth.com##.item--share
 flyercity.ca##.item_share_area
 theenergymix.com##.jeg_custom_share_wrapper
@@ -11491,6 +11492,7 @@ listenmoneymatters.com##.lmm_external_footer
 analyticsinsight.net##.loftocean-social-share-icon
 bringmethenews.com,dealbreaker.com,psmag.com,si.com,thestreet.com##.m-social
 consumerfinance.gov##.m-social-media
+insideevs.com##.m1-article-meta_share
 odditycentral.com##.mashsb-container
 truecrimedaily.com##.masthead__social-list
 breakingnews.ie##.mb-1.pt-4
@@ -11912,6 +11914,7 @@ comicxy.com##.sosmed
 mpost.io##.space-footer-top-soc
 watchinamerica.com##.spc-social-block
 bingehulu.com##.spc-social-follow
+watch.sportsnet.ca##.sport-hero__share-action-container
 visionguinee.info##.spu-bg
 visionguinee.info##.spu-box
 news.crunchbase.com##.ss-inline-share-content
