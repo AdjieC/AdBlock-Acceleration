@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: klZ5MZDJRU7wZVjHUbsjLA
-! Version: 202411171715
+! Checksum: sy9nr/Z7dJuriKq9PPfBDQ
+! Version: 202411172340
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-11-17 17:15 UTC
+! Last modified: 2024-11-17 23:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -49409,6 +49409,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||st.getsitecontrol.com/main/runtime/$script,domain=beaconclimbing.com
 @@||stabila.com/bundles/marketingsuite/css/cookie-bar.css
 @@||starhotels.com^*/cookiesdisclaimer.js$script
+@@||static-kl.com/assets/cookie-banner/$script
 @@||static.axept.io/sdk-slim.js$script,domain=www.welcometothejungle.com
 @@||static.go3.tv/file/go3/resources/*/onetrust.html$domain=play.tv3.lt|tv3play.skaties.lv
 @@||statisticsanddata.org/wp-content/plugins/complianz-gdpr/$script,stylesheet
