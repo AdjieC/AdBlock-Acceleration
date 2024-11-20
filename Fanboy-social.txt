@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /vZkRJ07mUQdgTG/x6mgKg
-! Version: 202411191751
+! Checksum: 6UkFusozs/U6+njddHu/tw
+! Version: 202411200001
 ! Title: Fanboy's Social Blocking List
-! Last modified: 19 Nov 2024 17:51 UTC
+! Last modified: 20 Nov 2024 00:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11839,6 +11839,7 @@ toofab.com##.social-nav
 thefrisc.com##.social-navigation
 steveharveyfm.com##.social-network-icons
 adrenaline.com.br,bossip.com,insidehpc.com,mundoconectado.com.br,sportsbusinessjournal.com##.social-networks
+govexec.com##.social-options
 businessinsider.in##.social-panel-rgt
 facethefactsusa.org##.social-profiles
 draxe.com##.social-proof-wrapper
