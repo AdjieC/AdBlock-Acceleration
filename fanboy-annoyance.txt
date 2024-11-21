@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: y4Sf8DGjgkdSt2LCYCru5g
-! Version: 202411202340
+! Checksum: Oy3n6SBK9xwi75hggD/wqQ
+! Version: 202411210515
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-11-20 23:40 UTC
+! Last modified: 2024-11-21 05:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1291,6 +1291,7 @@ _social_footer_
 /gdpr_changes_v1.min.js
 /gdpr_consent.js
 /gdpr_consent.min.js
+/gdpr_cookie_consent.min.js
 /gdpr_cookies/cookies.js
 /gdpr_dfp.js
 /gdpr_footer.js
@@ -32682,6 +32683,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ||cmp.cdn.thesun.ie^
 ||cmp.courrierinternational.com^
 ||cmp.finn.no^
+||cmp.gearupbooster.com^
 ||cmp.graziadaily.co.uk^
 ||cmp.huffingtonpost.fr^
 ||cmp.infopro-digital.com^
@@ -36234,6 +36236,7 @@ bolavip.com##.whatsapp-link
 aajtak.in,businesstoday.in##.whatsapp_channel
 business-standard.com##.whtsclick
 indiatoday.in##.whtspp_share
+androidheadlines.com##.widget-ahcount
 bingehq.com,douglasnow.com,watchinamerica.com##.widget-social-b
 madinamerica.com##.widget_a2a_share_save_widget
 theyucatantimes.com##.widget_ame_tiktok_widget
@@ -37803,6 +37806,7 @@ drafty.co.uk##.cpc-float
 deployhq.com##.crumbs-banner
 odds.am##.cs
 louisvuitton.com##.cs_banner
+kato-brand.com##.csm-cookie-consent
 filen.io##.css-11l9fez
 drive.filen.io##.css-13xwjmo
 mobian.dev##.css-14g2en8
@@ -39880,27 +39884,28 @@ x.com##.r-5kkj8d.r-153w4nv.r-1e4ma89.r-qq4cyc.css-175oi2r
 x.com##.rn-gvpnoh.rn-eps6nq.rn-13qz1uu
 ! Custom Filters
 primevideo.com##.DVWebNode-conditional-site-wide-wrapper:has([data-testid="consent-reject-all-endpoint"])
+news.abs-cbn.com##.MuiBox-root:has-text(Welcome,)
+memefi.club##.MuiStack-root:has-text(Personalised ads)
+honeygain.com##.Wrapper--1lbmq00:has-text(This website uses cookies)
+crumblcookies.com##.bottom-0.fixed:has-text(This site uses cookies)
 betsson.com##.cdk-overlay-pane:has-text(We use cookies)
+x.com##.css-175oi2r.r-12vffkv[style^="position: absolute; bottom: 0px; width: 100%;"]:has-text(data protection)
+sonarhome.pl##.fixed:has(.cookies-scrollbar)
+blog.smithsecurity.biz##.fixed:has-text(cookies)
+play.google.com##.gb_g:has-text(cookie)
+twitch.tv##.hLgTAv:has-text(Terms of Sale)
+alohaprofile.com##.md\:right-\[40px\]:has-text(By continuing to use our site)
+coopmobile.ch##.top-0.z-9999.fixed.bg-opacity-30:has-text(Website Cookies)
+studocu.com##.undefined:has([data-test-selector="click-the-cookie-banner"])
+istockphoto.com##.warning:has([data-cookie-type])
 unsplash.com##[open]:has(a[href="/cookies"])
-alohaprofile.com#?#.md\:right-\[40px\]:-abp-contains(By continuing to use our site)
-blog.smithsecurity.biz#?#.fixed:-abp-contains(cookies)
-crumblcookies.com#?#.bottom-0.fixed:-abp-contains(This site uses cookies)
-honeygain.com#?#.Wrapper--1lbmq00:-abp-contains(This website uses cookies)
-istockphoto.com#?#.warning:-abp-has([data-cookie-type])
-memefi.club#?#.MuiStack-root:-abp-contains(Personalised ads)
-moebelix.at#?#body > div > div:-abp-has(#jentis_consent)
-news.abs-cbn.com#?#.MuiBox-root:-abp-contains(Welcome,)
-play.google.com#?#.gb_g:-abp-contains(cookie)
-sonarhome.pl#?#.fixed:-abp-has(.cookies-scrollbar)
-studocu.com#?#.undefined:-abp-has([data-test-selector="click-the-cookie-banner"])
-twitch.tv#?#.hLgTAv:-abp-contains(Terms of Sale)
-x.com#?#.css-175oi2r.r-12vffkv[style^="position: absolute; bottom: 0px; width: 100%;"]:-abp-contains(data protection)
-yogainternational.com#?#div[class^="elements__Banner-"]:-abp-has(> div > a[href$="-privacy-policy"])
+moebelix.at##body > div > div:has(#jentis_consent)
+yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
 ! googlefunding consent warning
 ##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 ! medium blogs
-blog.discord.com,codeburst.io,eand.co,infosecwriteups.com,medium.com,medium.engineering,netflixtechblog.com,plainenglish.io,primegaming.blog,towardsdatascience.com,uxdesign.cc,windscribe.com#?#body > div:not([class]):not([id]) > div[class*=" "]:-abp-has(> div > div > div[class] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
-blog.discord.com,codeburst.io,eand.co,infosecwriteups.com,medium.com,medium.engineering,netflixtechblog.com,plainenglish.io,primegaming.blog,towardsdatascience.com,uxdesign.cc,windscribe.com#?#div:-abp-has(div[role='alert'] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
+blog.discord.com,codeburst.io,eand.co,infosecwriteups.com,medium.com,medium.engineering,netflixtechblog.com,plainenglish.io,primegaming.blog,towardsdatascience.com,uxdesign.cc,windscribe.com##body > div:not([class]):not([id]) > div[class*=" "]:has(> div > div > div[class] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
+blog.discord.com,codeburst.io,eand.co,infosecwriteups.com,medium.com,medium.engineering,netflixtechblog.com,plainenglish.io,primegaming.blog,towardsdatascience.com,uxdesign.cc,windscribe.com##div:has(div[role='alert'] > a[href^="https://policy.medium.com/medium-privacy-policy-"])
 ! Used with generichide
 guicheweb.com.br,mercadolibre.com###alert_cookie
 msi.com###ccc
@@ -39984,11 +39989,8 @@ thebarentsobserver.com###article-newsletter
 gulfnews.com###article-nl-wrap
 cepr.net###article-signup-wrap
 jpost.com###article-subscriber-form
-androidpolice.com,cbr.com,collider.com,dualshockers.com,gamerant.com,makeuseof.com,movieweb.com,pocketnow.com,screenrant.com,thegamer.com,thetravel.com,topspeed.com###articleNewsletterForm
-favesouthernrecipes.com###articleNewsletterSignup_div
-medicalnewstoday.com###banner-sticky
+favesouthernrecipes.com###articlePageNLSignupDiv
 xconfessions.com###baseModalContainer
-breitbart.com###bbd_incontent
 pressandjournal.co.uk###before-the-content-hook-1
 designtaxi.com###below-article
 politico.com###below-story-text > .story-enhancement
@@ -41982,6 +41984,7 @@ dictionary.com##.widget
 a16z.com##.widget--subscribe
 hpcwire.com##.widget-2
 instaread.co##.widget-ad-container
+androidheadlines.com##.widget-ahsubscribe
 mygaming.co.za,printmag.com##.widget-area
 offshore-energy.biz##.widget-dynamic
 hackaday.com##.widget-had-subscribe
@@ -45660,6 +45663,7 @@ tchibo.de##.pageloading-mask
 hollaus-it.at,krankengym-zentrum.de,s3nnet.de##.pcb
 recordsale.de##.personalization-request
 bluemonty.de##.pixelmate-big-wrapper
+wavecon.de##.pm-datenschutz__hint-box
 daemmen-lohnt-sich.de##.popover-background
 keg-gruber.at##.popup-banner
 lagermaulwurf.de##.popup-notification
