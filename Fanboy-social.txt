@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KxTpbXv2fB/Q03GSo6MpYQ
-! Version: 202411241751
+! Checksum: LnSwNK5uFVdkuPuzyYbhRw
+! Version: 202411250001
 ! Title: Fanboy's Social Blocking List
-! Last modified: 24 Nov 2024 17:51 UTC
+! Last modified: 25 Nov 2024 00:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11904,6 +11904,7 @@ spillsomebeans.com##.socials-counter
 blog.resy.com##.socials2
 ntvkenya.co.ke##.socials_bar
 thepopverse.com##.socials_promo
+eatwell101.com##.socialsaveur
 traveltriangle.com##.socialshare_box
 labrujulaverde.com##.socialsvgul
 citizen.digital##.socilamedia-share-btns
@@ -12256,7 +12257,7 @@ anews.com.tr,madeinbz.info,radiolodz.pl##.fa-facebook
 !! .facebook
 agenziacasaclima.it,buzzfil.com,cadenaazul.com,catapult.co,clubic.com,dailymail.co.uk,futbol24.com,ilfoglio.it,iveybusinessreview.ca,klimahaus.it,ladepeche.fr,lci.tf1.fr,lesoir.be,loi1901.com,ludokado.com,mf24.pl,nyheteridag.se,peoplesweather.com,picclick.fr,programme-tv.net,rfm.fr,screendaily.com,startromagna.it,suedtiroler-gaertner.it,teleticino.ch,todomercadoweb.es,tripstodiscover.com,trt.net.tr,tuttomercatoweb.com,yoink.com##.facebook
 !! .pinterest
-bicycling.com,caranddriver.com,cosmopolitan.com,delish.com,goodhousekeeping.com,nymag.com,roadandtrack.com,thepioneerwoman.com,tripstodiscover.com,vulture.com##.pinterest
+bicycling.com,caranddriver.com,cosmopolitan.com,countryliving.com,delish.com,goodhousekeeping.com,nymag.com,roadandtrack.com,thepioneerwoman.com,tripstodiscover.com,vulture.com##.pinterest
 !! .social-box
 boredpanda.com,criticalthreats.org,lasexta.com,varesenews.it,wolverine.com##.social-box
 !! .follow
