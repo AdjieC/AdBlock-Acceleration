@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: b5tudo7LF4jc85p6/kPNDQ
-! Version: 202411281751
+! Checksum: WOqX5LMj/UySyC5ckKUeiA
+! Version: 202411290001
 ! Title: Fanboy's Social Blocking List
-! Last modified: 28 Nov 2024 17:51 UTC
+! Last modified: 29 Nov 2024 00:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11138,6 +11138,7 @@ thenextweb.com##.c-engage
 greatnorthernrail.com,southernrailway.com##.c-footer--social
 lawandcrime.com##.c-header-social-item
 heart.org##.c-hero-card__social
+dev.to##.c-link--icon-alone
 businessplus.ie##.c-padding-xs.ct-div-block
 united24media.com##.c-post__props
 euroweeklynews.com,thisisfutbol.com,videocelts.com##.c-post__social
