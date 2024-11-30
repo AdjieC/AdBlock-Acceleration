@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7IZ2pdXqF8vR4dTwI/aIgQ
-! Version: 202411300540
+! Checksum: T9GbmNziYdzYHzd4sSU4QQ
+! Version: 202411301140
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-11-30 05:40 UTC
+! Last modified: 2024-11-30 11:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -33974,6 +33974,7 @@ euronews.com##.js-swip-btn
 malaymail.com##.latest-news
 aajtak.in,businesstoday.in,gnttv.com##.mainBorromSliderSec
 metro.co.uk##.metro-swipe-prompt
+fandom.com##.mobileDrawer
 carsales.com.au##.more-articles-placeholder
 acs.org##.motw-controls
 mlbtraderumors.com##.nav-arrow
@@ -38591,7 +38592,7 @@ genesis.com##.privacy-dialog
 araviscapital.com##.privacy-holder
 businessinsider.com##.privacy-link
 petalmaps.com##.privacy-menu
-curiosum.com##.privacy-notice
+curiosum.com,kinolorber.com##.privacy-notice
 uniprot.org##.privacy-panel
 tribalwars2.com##.privacy-policty-bar
 naukri.com##.privacy-policy-container
@@ -48046,7 +48047,7 @@ oz.av.tr##.Legal
 columbia.com.tr##.MuiCollapse-wrapperInner
 apigo.com.tr##.ant-notification
 ikonambalaj.com.tr##.bottom-center
-aydinyeniufuk.com.tr,balikesirartihaber.com,blokhaber.com,bomba15.com,denizli20haber.com,dirilispostasi.com,eldedemokrasi.com,euromsg.com,haberimizvar.net,hedefgazetesi.com.tr,isdunyasindakadin.com,ispartamhaber.com,kocaelisabah.com,mhrs.gov.tr,offtherecord.com.tr,sabancivakfi.org,seffafbelediyecilik.com,tarsusgazetesi.com,yenigolcuk.com##.cerez
+aydinyeniufuk.com.tr,balikesirartihaber.com,blokhaber.com,bomba15.com,denizli20haber.com,dirilispostasi.com,eldedemokrasi.com,euromsg.com,haberimizvar.net,hedefgazetesi.com.tr,isdunyasindakadin.com,ispartamhaber.com,kocaelisabah.com,mhrs.gov.tr,sabancivakfi.org,seffafbelediyecilik.com,tarsusgazetesi.com,yenigolcuk.com##.cerez
 iys.org.tr##.cerezall
 saltur.com.tr##.cerezkullanimi
 bettilt496.com##.consent-modal
@@ -49373,7 +49374,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||termsfeed.com/public/cookie-consent/*/cookie-consent.js$domain=rentastar.pt
 @@||topschool.pl/wp-content/plugins/CookieInfo/js/CookieInfo.js$script
 @@||truendo.com^$script,xmlhttprequest,domain=laola1.at
-@@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=atv.at|bayer04.de|douglas.de|dr-beckmann.com|festool.at|festool.be|festool.bg|festool.ch|festool.cn|festool.co.kr|festool.co.uk|festool.co.za|festool.com|festool.cz|festool.de|festool.dk|festool.es|festool.fi|festool.fr|festool.hu|festool.ie|festool.it|festool.lt|festool.nl|festool.no|festool.pl|festool.pt|festool.ro|festool.ru|festool.se|festool.sk|festool.ua|festoolcanada.com|festoolusa.com|flaschenpost.de|highsnobiety.com|immowelt.de|joyn.de|kicker.de|morenutrition.de|paketshop.myhermes.de|postbank.de|prosieben.at|puls4.com|radiobob.de|ran.de|rts.ch|sat1.at|schlager.radio|sportdeutschland.tv|srf.ch|verivox.de|wetter.com
+@@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=atv.at|bayer04.de|dfbplay.tv|douglas.de|dr-beckmann.com|festool.at|festool.be|festool.bg|festool.ch|festool.cn|festool.co.kr|festool.co.uk|festool.co.za|festool.com|festool.cz|festool.de|festool.dk|festool.es|festool.fi|festool.fr|festool.hu|festool.ie|festool.it|festool.lt|festool.nl|festool.no|festool.pl|festool.pt|festool.ro|festool.ru|festool.se|festool.sk|festool.ua|festoolcanada.com|festoolusa.com|flaschenpost.de|highsnobiety.com|immowelt.de|joyn.de|kicker.de|morenutrition.de|paketshop.myhermes.de|postbank.de|prosieben.at|puls4.com|radiobob.de|ran.de|rts.ch|sat1.at|schlager.radio|sportdeutschland.tv|srf.ch|verivox.de|wetter.com
 @@||vendorlist.consensu.org/vendorlist.json$xmlhttprequest,domain=telegraph.co.uk|tf1.fr
 @@||vesmir.cz/components/eu_cookie/$script
 @@||vrtranspoint.fi/static/studio/pub/SYSTEM/v2/branches/master/js/cookie-consent.min.js$script
