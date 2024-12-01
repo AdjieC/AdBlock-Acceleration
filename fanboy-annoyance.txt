@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hvF8lG7884hwhzfnYwah1Q
-! Version: 202411301740
+! Checksum: jnwyG4O/vmqBSNr15vhO2Q
+! Version: 202411302315
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-11-30 17:40 UTC
+! Last modified: 2024-11-30 23:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -41041,6 +41041,7 @@ thechurchnews.com##.form__wrapper
 cnevpost.com,prettysimplesweet.com,saabplanet.com,valuewalk.com##.formkit-form
 notthathardtohomeschool.com##.formkit-sticky-bar
 algemeiner.com##.formnews
+labrujulaverde.com##.formulariosuscripcion
 neurologyadvisor.com,ophthalmologyadvisor.com,optometryadvisor.com##.fr-dialogmodal
 prodvana.io##.framer-2ydke7-container
 wholesomeyum.com##.free-food-bar
