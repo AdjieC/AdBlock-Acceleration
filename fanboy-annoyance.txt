@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TYMNt62YOJrZSoR9ot4f+A
-! Version: 202412012340
+! Checksum: tdpHUqEKe2nX++/+7ADyrw
+! Version: 202412020515
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-12-01 23:40 UTC
+! Last modified: 2024-12-02 05:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -138,8 +138,6 @@
 /scroll_top.svg
 /scrollBtnTop.png
 /scrolltopcontrol.js
-/scrolltotop.js
-/scrollToTop.min.js
 /scrollToTop.png
 /scrollup_button.js
 /simple-back-to-top//js/sbtt.js
@@ -41427,6 +41425,7 @@ frontofficesports.com##.newsletter-sticky-bar
 peoplematters.in##.newsletter-sub-fixed
 neh.gov##.newsletter-subscribe-block-container
 theasianparent.com##.newsletter-subscribe-card-warp
+itnews.com.au##.newsletter-subscribe-container
 newyorker.com##.newsletter-subscribe-form
 essence.com##.newsletter-subscribe-inline
 youcouldtravel.com##.newsletter-subscription-block
