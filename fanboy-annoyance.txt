@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cNobK9/4Z1ZBJ+70+vUXVg
-! Version: 202412021140
+! Checksum: QyKvHc5QZwbZum2vFCYMYA
+! Version: 202412021715
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-12-02 11:40 UTC
+! Last modified: 2024-12-02 17:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2820,6 +2820,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ##.tmblr-iframe--app-cta-button
 ##.z-bit-smartbanner
 ##[class^="adjust-smart-banner"]
+##[data-testid="app-install-container"]
 ##a[href^="http://www.mobi24.net/"]
 ##a[href^="https://www.mobi24.net/"]
 ##amp-app-banner
