@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jOAOP24C/smGSGY43h69Uw
-! Version: 202412030001
+! Checksum: 9pfJPNvky3P9JBMyoTaeYw
+! Version: 202412030550
 ! Title: Fanboy's Social Blocking List
-! Last modified: 03 Dec 2024 00:01 UTC
+! Last modified: 03 Dec 2024 05:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10968,7 +10968,7 @@ investmentexecutive.com,just-food.com##.article-footer
 financemagnates.com##.article-icons
 financemagnates.com##.article-icons-color
 techxplore.com##.article-interaction__social
-seattletimes.com##.article-share
+seattletimes.com,thecooldown.com##.article-share
 mymodernmet.com##.article-share-container
 wionews.com##.article-share-data
 freebeacon.com##.article-share-icons
@@ -11297,7 +11297,7 @@ madamasr.com##.footer_icons_container
 shbarcelona.com##.footer_network
 messengernews.net##.footer_soc_icon
 wafa.ps##.footermenu
-helpnetsecurity.com##.fp-hero-block
+cryptointelligence.co.uk##.fox-share
 telex.hu##.framed-content
 moneycontrol.com##.fsoci
 digitalcontentnext.org##.ft-soc
@@ -11452,6 +11452,7 @@ inyminy.com##.menu-menu4_home-container
 arabnews.com##.meta-area
 smashingmagazine.com##.meta-box--share
 cleaner.com##.meta__share
+cryptoreporter.info##.mh-share-buttons
 businessinsider.com##.mi-logo-social-container
 sportsnet.ca##.micro_mail__dd_RW
 sportsnet.ca##.micro_xshare__KIfyn
@@ -11460,6 +11461,7 @@ travelandleisure.com##.mntl-footer__social
 thehackernews.com##.mobile-share
 recipes.timesofindia.com##.mobile-sprite
 ronorp.net##.mobile_social_block
+zenger.news##.module-social-share-wrapper
 topic.com##.modules-SocialWidget-socialWidget
 boxofficemojo.com##.mojo-fb-logo
 boxofficemojo.com##.mojo-tw-logo
@@ -11696,6 +11698,7 @@ proofpoint.com##.sharethis_toolbox
 unibas.ch##.shariff-article
 insidehpc.com##.shariff-buttons
 newsroom.co.nz##.sharing-anchor
+cjr.org##.sharing-buttons
 thekitchenmagpie.com##.sharing-cta
 dagens.com##.sharing-element
 al-watan.com,qatar-tribune.com##.sharingColumn
@@ -12017,7 +12020,6 @@ androidheadlines.com##.widget-ahcount
 bingehq.com,douglasnow.com,watchinamerica.com##.widget-social-b
 madinamerica.com##.widget_a2a_share_save_widget
 theyucatantimes.com##.widget_ame_tiktok_widget
-fandomwire.com##.widget_bimber_widget_facebook_page
 chipsandcheese.com##.widget_block
 atlantatribune.com##.widget_connect
 topauto.co.za##.widget_eltd_social_icon_widget
