@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1B5PuYsX5A1Gys9Ay+Vm4w
-! Version: 202412021751
+! Checksum: jOAOP24C/smGSGY43h69Uw
+! Version: 202412030001
 ! Title: Fanboy's Social Blocking List
-! Last modified: 02 Dec 2024 17:51 UTC
+! Last modified: 03 Dec 2024 00:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11987,6 +11987,7 @@ thefastmode.com##.twitter_plugin
 tjapan.jp##.u-side-col--mailmagazine-share
 tjapan.jp##.u-side-col--share--body
 unsw.edu.au##.uds-social-follow
+news.sky.com##.ui-news-footer-social
 news.sky.com##.ui-news-footer-social-link
 hp.com##.ul_media_links
 punchdrink.com##.ups-footer__social

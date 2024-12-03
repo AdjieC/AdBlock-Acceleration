@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QyKvHc5QZwbZum2vFCYMYA
-! Version: 202412021715
+! Checksum: v45xZ+1inHg9WXv1b/uknw
+! Version: 202412022315
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-12-02 17:15 UTC
+! Last modified: 2024-12-02 23:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -33707,6 +33707,7 @@ shazam.com##.shz-frame-promotionbanner
 mcsweeneys.net##.side-banner
 jfrog.com##.sidebar-banner
 welivesecurity.com##.sidebar-card-banner
+spilled.gg##.sidebar-container-about
 mymodernmet.com##.sidebar-shop-patreon-cta-container
 symbolab.com##.sign-in-button
 loom.com##.signup-overlay_isCentered_2Al
@@ -36170,6 +36171,7 @@ thefastmode.com##.twitter_plugin
 tjapan.jp##.u-side-col--mailmagazine-share
 tjapan.jp##.u-side-col--share--body
 unsw.edu.au##.uds-social-follow
+news.sky.com##.ui-news-footer-social
 news.sky.com##.ui-news-footer-social-link
 hp.com##.ul_media_links
 punchdrink.com##.ups-footer__social
@@ -45164,6 +45166,7 @@ dueren.de###privacy_policy_wrapper
 forsea.de,rasur-online.de###rahmen_ueber_die_ganze_seite_fuer_cookie
 forsea.de,rasur-online.de###rahmen_ueber_die_ganze_seite_rahmen_fuer_cookie_abfrage
 gab-umweltservice.de###rcpm
+komediateatteri.fi###rehtiConsentMainWrapper
 gourmetbugs.ch###rgpd-ask-popin
 rwth-aachen.de###rwth-cb
 gfoe-conference.de###sb-container
