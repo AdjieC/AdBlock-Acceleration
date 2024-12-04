@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0qTEnuLU1En7xyMPQjeNgw
-! Version: 202412040541
+! Checksum: dLAnWE6qvtc5SHRQeDsYoQ
+! Version: 202412041151
 ! Title: Fanboy's Social Blocking List
-! Last modified: 04 Dec 2024 05:41 UTC
+! Last modified: 04 Dec 2024 11:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11172,6 +11172,7 @@ daily-sun.com##.details_list_group_footer_social__JSbQA
 dailymail.co.uk##.dms-puff
 thefitcareerist.com,thewalrus.ca##.dpsp-network-list-item
 dropbox.tech##.dr-article-content__social-links
+economist.com##.ds-actioned-link--share
 theverge.com##.duet--article--lede-share-tools-separator
 theverge.com,vox.com##.duet--article--share-buttons
 dailyboulder.com,echonewshub.com,jugomobile.com,thartribune.com,thegamepost.com,townflex.com##.e-shared-sec
@@ -11358,6 +11359,7 @@ iranwire.com##.header-top
 news.cgtn.com,newsus.cgtn.com##.header-v3-follow-common
 cgtn.com##.header-v3-shareicon
 pulse.com.gh,pulse.ng##.headerSocials
+cpac.ca##.header__multi__social
 mirror.co.uk##.header__nav__share--active
 accessonline.com##.header__social-search__icons
 tilifony.com##.header_google_button
@@ -11561,7 +11563,7 @@ tsunagujapan.com##.post-article_sns
 lawfaremedia.org##.post-detail__share
 getcomics.org##.post-footer-shr
 theashleysrealityroundup.com##.post-links
-bukvy.org,digitalinformationworld.com,douglasnow.com,earthsky.org,gidhaur.com,san.com,watchinamerica.com##.post-share
+androidheadlines.com,bukvy.org,digitalinformationworld.com,douglasnow.com,earthsky.org,gidhaur.com,san.com,watchinamerica.com##.post-share
 aceshowbiz.com##.post-share-area
 douglasnow.com##.post-share-bot
 douglasnow.com,rockstarintel.com,watchinamerica.com##.post-share-float
@@ -11761,6 +11763,7 @@ readbetting.com,readcars.co,readceltic.com,readfashion.co,readfilm.co,readfood.c
 digitimes.com##.social-frame
 businessgreen.com,computing.co.uk,investmentweek.co.uk##.social-heading
 siliconrepublic.com##.social-horizontal-container
+firstpost.com##.social-ic-wrap
 estadao.com.br,india.com,news18.com,recipetineats.com,wionews.com##.social-icon
 newsclick.in##.social-icons--fixed
 bonappetit.com,cntraveler.com##.social-icons--share
@@ -11809,6 +11812,7 @@ thenationalnews.com##.social-share-rail__sticky
 computerworld.com##.social-share-sticky-men
 cio.com##.social-share-sticky-menu
 arnnet.com.au,csoonline.com,infoworld.com,networkworld.com##.social-share-sticky-menu__wrapper
+appleinsider.com##.social-share-wrap
 rappler.com##.social-share__actions
 officialcharts.com##.social-sharing-bar
 newmobility.com##.social-sharing-links
@@ -12126,6 +12130,7 @@ jagranjosh.com##ul[class^="Details_Social_"]
 dailymail.co.uk,thisismoney.co.uk##ul[class^="linksHolder-"]
 !! :has
 foxnews.com##.article-meta-lower:has(.article-social)
+thedispatch.com##.border-y.py-2:has-text(Share)
 appleinsider.com##.col-xs-12 > div:has-text(Follow AppleInsider)
 newskarnataka.com##.elementor-button-wrapper:has-text(Social Media)
 openculture.com##.execphpwidget:has-text(FREE UPDATES!)
@@ -12142,7 +12147,7 @@ byjus.com,commentpicker.com,hakaimagazine.com,hollywoodlife.com,homemark.co.za,i
 !! .share-group
 exafm.com,goldderby.com,lamejor.com.mx,mvsnoticias.com,revistaforum.com.br##.share-group
 !! .share-container
-beebom.com,captimes.com,cheknews.ca,cockroachlabs.com,estadao.com.br,fandomwire.com,mag.toyota.co.uk,philstarlife.com,silicon.co.uk,silicon.de,silicon.es,silicon.fr,silicon.pt,stadiumtalk.com##.share-container
+beebom.com,captimes.com,cheknews.ca,cockroachlabs.com,cpac.ca,estadao.com.br,fandomwire.com,mag.toyota.co.uk,philstarlife.com,silicon.co.uk,silicon.de,silicon.es,silicon.fr,silicon.pt,stadiumtalk.com##.share-container
 !! .share-icons
 alwatanvoice.com,atlantablackstar.com,binnews.com,blog.phylum.io,finurah.com,gulf-times.com,iheart.com,jessekellyshow.com,jfrog.com,noticiasaominuto.com,noticiasaominuto.com.br,sciencefocus.com,steveharveyfm.com,thehighwire.com,theshadowleague.com,thewildest.com##.share-icons
 !! .share-links
@@ -12252,10 +12257,12 @@ atlatszo.hu,atvavrupa.tv,avn.com,bostonmagazine.com,cas.sk,cloth5.com,commentwik
 !! .redes
 acordacidade.com.br,biobiochile.cl,crea-mexico.com,eleconomista.com.ar,elobservador.com.uy,elonce.com,expansion.com,futbol.com.uy,futbolred.com,harem69.com.br,humordaterra.com,jornaldocomercio.com,laverdad.com,lula.com.br,montevideo.com.uy,mvsnoticias.com,pantallazo.com.uy,portalperifacon.com,tvcultura.com.br##.redes
 ! Specific elements because of generichide
+globalnews.ca###footer-social
 adblockplus.org###social-list
 gameloop.com##.Footer_follow__eMVb8
 gameloop.com##.Share_pc_share__RxDpq
 rawstory.com##.body-share-wrap
+globalnews.ca##.c-socialShare
 kabeleins.de,prosieben.de,prosiebenmaxx.de,ran.de,sat1.de,sixx.de,suomi24.fi##.fb-page
 hindustantimes.com##.new__socialIcons
 rawstory.com##.share-panel
