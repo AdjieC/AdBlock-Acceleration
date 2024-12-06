@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ihEyAPOwc+4bhTSVffnY9A
-! Version: 202412061151
+! Checksum: 49zVRuCQUvz+B225v2Meqw
+! Version: 202412061751
 ! Title: Fanboy's Social Blocking List
-! Last modified: 06 Dec 2024 11:51 UTC
+! Last modified: 06 Dec 2024 17:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10047,16 +10047,10 @@ _social_footer_
 ##.whatsapp_share
 ##.whoShare
 ##.whtapp-web
-##.whtspp_share
 ##.widget--twitter
 ##.widget-ahsocial
-##.widget-altervista-social
 ##.widget-article-follow
-##.widget-author__socials
-##.widget-cardoza-fb-like
 ##.widget-easy-twitter-feed-widget-container
-##.widget-facebook-timeline
-##.widget-fb-recommendations
 ##.widget-follow
 ##.widget-follow-us
 ##.widget-followus
@@ -10090,21 +10084,15 @@ _social_footer_
 ##.widget_alloy_social
 ##.widget_anyusertwitterfeed
 ##.widget_armonioso_social_icons
-##.widget_be_widget_social_follow
 ##.widget_better-social-counter
-##.widget_bimber_widget_facebook_page
 ##.widget_boombox_social
 ##.widget_bs-likebox
-##.widget_cbs_follow_us_widget
-##.widget_cbs_social_share_widget
-##.widget_cf_social_media_widget
 ##.widget_connect-social
 ##.widget_connect_facebook
 ##.widget_connect_instagram
 ##.widget_connect_twitter
 ##.widget_connect_youtube
 ##.widget_custom-twitter-feeds-widget
-##.widget_do_shortcode_instagram_widget
 ##.widget_dpsp_social_media_follow
 ##.widget_easy_facebook_page_plugin
 ##.widget_epcl_social
@@ -10943,6 +10931,7 @@ cafonline.com##.caf-o-footer__socials
 cryptotvplus.com##.call-now-button
 iotsrg.org##.call-to-action
 u.today##.card__subscribe
+u.today##.card__wrap
 cricbuzz.com##.cb-social-td
 androidpcreview.com##.cb__share-box
 today.usc.edu##.cc--social-share
@@ -10979,6 +10968,7 @@ allafrica.com,dailysignal.com##.connect
 earthsky.org##.connect-2
 utexas.edu##.connect-links
 financemagnates.com##.contact-widget__sticky
+u.today##.contacts-social
 dailymail.co.uk##.container-3zJLP
 christian.org.uk##.content__sharing
 carnegieendowment.org##.controls
@@ -11271,7 +11261,7 @@ cointribune.com##.list-single-actions.xl\:w-\[100px\].mt-4.relative
 soundcloud.com##.listenDetails__login
 listenmoneymatters.com##.lmm_external_footer
 analyticsinsight.net##.loftocean-social-share-icon
-bringmethenews.com,dealbreaker.com,psmag.com,si.com,thespun.com,thestreet.com##.m-social
+bitcoinmagazine.com,bringmethenews.com,dealbreaker.com,psmag.com,si.com,thespun.com,thestreet.com##.m-social
 consumerfinance.gov##.m-social-media
 insideevs.com##.m1-article-meta_share
 odditycentral.com##.mashsb-container
