@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9j7FgC8ByO4B1Er81My6cQ
-! Version: 202412141115
+! Checksum: +2oRh6Sz9Yira5trD76JzQ
+! Version: 202412141640
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-12-14 11:15 UTC
+! Last modified: 2024-12-14 16:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -15866,7 +15866,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ###cookie_consent_popup
 ###cookie_consent_wall
 ###cookie_cont
-###cookie_container
 ###cookie_content
 ###cookie_control_popup
 ###cookie_controller
@@ -27368,6 +27367,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ##.overlay__cookie
 ##.overlay__shadow--cookie-consent
 ##.overlay_cookiebanner
+##.overlay_cookies_eu_sa
 ##.overlay_pri
 ##.overlayblackCookie
 ##.overlaycookie
@@ -36917,7 +36917,6 @@ kalahariresorts.com##.c-dialog-cookie
 officetimeline.com##.c-gjHvZA
 moment.co##.c-hUKRYQ
 sigma-global.com##.c-info-pane__container
-bo3.gg##.c-modal-cookie
 okdo.com##.c-notification-bar
 resmed.com##.c-notifications-wrapper
 loveholidays.com,loveholidays.ie##.c-o--
@@ -37816,7 +37815,6 @@ castrol.com##.nv-notification-header
 nexcess.net##.nx-1e5c67c
 decider.com,nypost.com,pagesix.com##.nyp-sitewide-notice
 novaljaturist.com##.o-data
-bo3.gg##.o-modal
 lepiantagionidelcaffe.com##.o-popup--cookies
 affiliates.kayak.com##.o7e5
 gamesnacks.com##.oZmw2e
@@ -48170,6 +48168,7 @@ cam.start.canon,s-court.me#@#.cookie_accept
 crazy-factory.com#@#.cookie_banner
 pressassociation.com#@#.cookie_bar
 security.nl#@#.cookie_consent:not(body):not(html)
+igraonice.hr#@#.cookie_gdpr
 withings.com#@#.cookie_message
 mitsubishielectric.com#@#.cookie_policy
 inkblot.art,marokko.nl#@#.cookiealert
@@ -48195,7 +48194,7 @@ hublot.com#@#.cookies_consent-show
 logo.pt#@#.cookies_container
 educhel.ru#@#.cookies_popup
 xlbygg.se#@#.cookievarning-wrap
-canal.be,samsung.com,vaillant.de,xlbygg.se#@#.cookiewarning:not(body):not(html)
+batterilagret.se,canal.be,samsung.com,vaillant.de,xlbygg.se#@#.cookiewarning:not(body):not(html)
 qatarairways.com#@#.cookiewrap
 abc.es,as.com,auto.it,corrieredellosport.it,elconfidencial.com,elindependiente.com,seguro.elespanol.com,tuttosport.com#@#.didomi-notice-banner
 20minutos.es,goplay.be,ouest-france.fr,strefabiznesu.pl#@#.didomi-screen-xlarge
