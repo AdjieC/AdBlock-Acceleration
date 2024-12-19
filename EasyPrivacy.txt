@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202412181623
+! Version: 202412182359
 ! Title: EasyPrivacy
-! Last modified: 18 Dec 2024 16:23 UTC
+! Last modified: 18 Dec 2024 23:59 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -8064,6 +8064,7 @@ omni.soundestlink.com$image
 ||tangyamount.com^
 ||tangycover.com^
 ||tarttendency.com^
+||tasksimplify.com^
 ||tastefulsongs.com^
 ||tastelesstoes.com^
 ||tastelesstrees.com^
@@ -51680,6 +51681,7 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||ma-petite-recette.fr/visites
 ||marmiton.org/reloaded/errpix.php
 ||medoucine.com/tracking/
+||mesure-pro.engie.fr^
 ||metrics-broker.prod.p.tf1.fr^
 ||neko-san.fr/stats
 ||ocular.dealabs.com^
