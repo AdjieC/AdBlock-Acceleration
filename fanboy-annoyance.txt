@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: psfNXvrrjb6DwnTQ5SknHQ
-! Version: 202412192315
+! Checksum: 4wgN79s+5QpRxtzJ33h8eA
+! Version: 202412200515
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-12-19 23:15 UTC
+! Last modified: 2024-12-20 05:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -22697,7 +22697,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ##.cookie-consent-wrapper
 ##.cookie-consent.bottom
 ##.cookie-consent.invers
-##.cookie-consent.show
 ##.cookie-consent.shown
 ##.cookie-consent[data-closable]
 ##.cookie-consent[data-controller]
@@ -40184,6 +40183,7 @@ pirg.org##.footer1-signup
 healthshots.com##.footerNewletSub
 memeburn.com,ventureburn.com##.footerSub
 ipwatchdog.com##.footer__bar
+usmagazine.com##.footer__form
 streetartnews.net##.footer__heading
 christian.org.uk##.footer__mailing
 bellingcat.com##.footer__mailing__right
