@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: H3DxvtFOTVaGBB1NTeInig
-! Version: 202412211751
+! Checksum: h+RxdpBnw7ejRqSI2mmqiQ
+! Version: 202412220001
 ! Title: Fanboy's Social Blocking List
-! Last modified: 21 Dec 2024 17:51 UTC
+! Last modified: 22 Dec 2024 00:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11539,6 +11539,7 @@ labrujulaverde.com##.socialsvgul
 citizen.digital##.socilamedia-share-btns
 comicxy.com##.sosmed
 mpost.io##.space-footer-top-soc
+spacebar.news##.spacebar-auto-notice
 watchinamerica.com##.spc-social-block
 bingehulu.com##.spc-social-follow
 watch.sportsnet.ca##.sport-hero__share-action-container
