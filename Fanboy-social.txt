@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 35TAY0Pfn2Id1tkNm/bwJQ
-! Version: 202412240001
+! Checksum: JuO+1NBZjNfjpsz/3JDLBA
+! Version: 202412240551
 ! Title: Fanboy's Social Blocking List
-! Last modified: 24 Dec 2024 00:01 UTC
+! Last modified: 24 Dec 2024 05:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -13190,7 +13190,7 @@ comicsands.com#@#.sticky-share
 tmstor.es#@#.top_social
 nothiefsallowed.com#@#.twitter-timeline
 google.com#@#SHARE-BUTTON
-geki-cine.jp,monsterhunternow.belugacpn.jp#@#a[href^="https://twitter.com/intent/tweet?"]
+geki-cine.jp,mamodan-plus.clony.co.jp,monsterhunternow.belugacpn.jp#@#a[href^="https://twitter.com/intent/tweet?"]
 petsmart.com#@#a[href^="https://www.facebook.com/sharer/sharer.php"]
 playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"]
 ! *** easylist:fanboy-addon/fanboy_social_allowlist.txt ***
