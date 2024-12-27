@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: khvEkdqwYIDRFDpN1v+yuA
-! Version: 202412270440
+! Checksum: DmFvTkH2/kkgbNyspfrHpw
+! Version: 202412271115
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-12-27 04:40 UTC
+! Last modified: 2024-12-27 11:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -22640,7 +22640,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ##.cookie-data-warning
 ##.cookie-demo
 ##.cookie-demo-on
-##.cookie-description
 ##.cookie-desktop
 ##.cookie-dialog
 ##.cookie-dialog-center
@@ -36529,6 +36528,7 @@ m.tomtop.com##.bm_dialog
 m.tomtop.com##.bm_dialogBg
 alle.com##.bnjRmV
 copilot.microsoft.com##.bnp_cookie_banner
+nhm.ac.uk##.body-overlay
 ulysse.com##.border-dark-10.border.rounded.shadow
 educative.io##.border-primary-lightP1.border-t.flex-col.flex
 algolia.com##.bot-0.left-0
@@ -38333,7 +38333,7 @@ freshcart.se,ninelife.no,store.pw.live##.FeatureBar_root___INU8
 !! .v-overlay
 abnt.org.br,adressen.schober.de,andyguitar.co.uk,bimedis.ru,ichbindeinauto.de,mp.cz,order.fiveguys.fr,promotionbasis.de,rypsv.scot,trustpid.com##.v-overlay
 !! .cky-consent-container
-abels.co.uk,beebeeboard.com,cetpenedes.cat,cvonline.varbamisteenused.ee,eurooptions.co.uk,wintermeeting.escrs.org##.cky-consent-container
+abels.co.uk,beebeeboard.com,cetpenedes.cat,christmasworld.net,cvonline.varbamisteenused.ee,eurooptions.co.uk,wintermeeting.escrs.org##.cky-consent-container
 !! Cookie_
 appmetrica.yandex.com,sook.space##[class^="Cookie_"]
 !! .cookie123-popup
@@ -45360,6 +45360,7 @@ ov-chipkaart.nl##[aria-describedby="cookie-banner-message"]
 mobiel.nl##[class^="CookiesModal_"]
 zoover.nl##[data-cy="consent-wrapper"]
 princeclausfund.nl##[x-ref="cookies"]
+snsbank.nl##ap-cookie-consent
 npo.nl##ccm-notification
 landal.nl##consent-slide-in-component
 fyn.nl##cookie
@@ -48104,6 +48105,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||cdn-cookieyes.com/client_data/$script,xmlhttprequest,domain=ilovefreegle.org
 @@||cdn-national-lottery.co.uk/c/js/cuk_core.min.js
 @@||cdn.appconsent.io^$script,domain=commentcamarche.net|journaldesfemmes.fr|lachainemeteo.com|lefigaro.fr|linternaute.com
+@@||cdn.clarip.com/frontier/cookieconsent/$domain=flyfrontier.com
 @@||cdn.jsdelivr.net/combine/$script,domain=softube.com
 @@||cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.js$script,domain=inkblot.art
 @@||cdn.jsdelivr.net^*/cookieconsent.min.js$domain=electrobueno.com|papekenworth.com
