@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kGtRPTuMNoL76Din5bgLDg
-! Version: 202412291640
+! Checksum: Ddzs6kUDX+3y+9ELoUhzMw
+! Version: 202412292340
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-12-29 16:40 UTC
+! Last modified: 2024-12-29 23:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -34924,7 +34924,7 @@ siliconrepublic.com##.social-horizontal-container
 firstpost.com##.social-ic-wrap
 estadao.com.br,india.com,news18.com,recipetineats.com,wionews.com##.social-icon
 newsclick.in##.social-icons--fixed
-bonappetit.com,cntraveler.com##.social-icons--share
+bonappetit.com,cntraveler.com,them.us##.social-icons--share
 iheart.com,jessekellyshow.com,steveharveyfm.com##.social-icons-button
 mid-day.com##.social-icons-inline
 civil.ge,informe360.com##.social-icons-item
@@ -37227,8 +37227,6 @@ gfbv.ch##.layout-messages
 airlinecheckins.com##.layout-row
 indiegogo.com##.layoutHeader-informationMessageWrapper
 iconsumer.com##.lb_overlay
-neokyo.com##.lcc-backdrop
-neokyo.com##.lcc-modal
 limerickleader.ie##.leaderboard_container
 glencore.com##.left-3
 siter.io##.left.dialog
@@ -47973,6 +47971,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 ! Mobile Notifications
 @@||anadolu.edu.tr/assets/js/jquery.smartbanner.js$~third-party
 @@||assure.ameli.fr^*/smart-app-banner.js$~third-party
+@@||kinepolis.*/js/smart-app-banner.js$~third-party
 @@||mafia.ua/js/jquery.smartbanner.js$script,~third-party
 @@||mirage.ru/js/jquery.smartbanner.js$script,~third-party
 ! easylist_cookie_allowlist.txt

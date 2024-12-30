@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RKLZ2yGKopgPBPvOE1YeDw
-! Version: 202412291750
+! Checksum: bZsA0VgXiAkqsvACVxWa9g
+! Version: 202412300001
 ! Title: Fanboy's Social Blocking List
-! Last modified: 29 Dec 2024 17:50 UTC
+! Last modified: 30 Dec 2024 00:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11438,7 +11438,7 @@ siliconrepublic.com##.social-horizontal-container
 firstpost.com##.social-ic-wrap
 estadao.com.br,india.com,news18.com,recipetineats.com,wionews.com##.social-icon
 newsclick.in##.social-icons--fixed
-bonappetit.com,cntraveler.com##.social-icons--share
+bonappetit.com,cntraveler.com,them.us##.social-icons--share
 iheart.com,jessekellyshow.com,steveharveyfm.com##.social-icons-button
 mid-day.com##.social-icons-inline
 civil.ge,informe360.com##.social-icons-item
