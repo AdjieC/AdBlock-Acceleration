@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Ddzs6kUDX+3y+9ELoUhzMw
-! Version: 202412292340
+! Checksum: kwZN8rYRA/ew/DFOeAog0Q
+! Version: 202412300540
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-12-29 23:40 UTC
+! Last modified: 2024-12-30 05:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -38209,7 +38209,7 @@ courtika.com,essor.ca,groupedpa.com,laturquoise.ca,pmtroy.com,rockebilly.com,tre
 !! .consent-box
 ltl-chinois.fr,ostsee24.de,photofiltres.fr##.consent-box
 !! #cookie-bar
-alpha-buch.de,crossref.org,ilgiardinodeilibri.it,querstarter.de,smallseotools.com###cookie-bar
+alpha-buch.de,crossref.org,ilgiardinodeilibri.it,querstarter.de,smallseotools.com,trwalamotywacja.pl###cookie-bar
 !! style_container__
 bossautoukraine.com.ua,tray.io##[class^="style_container__"]
 !! .notification-bar
@@ -41961,6 +41961,7 @@ cottonon.com###newsletter-entry-footer
 saluhallmarket.com###newsletter-modal
 pi-shop.ch###newsletter-validate-detail
 mwave.com.au###newsletterForm
+originpc.com###newsletterModal
 shop.mango.com###newsletterSubscriptionModalLoad
 akkogear.com###newuser_promotion_ad
 edenfantasys.com###nlSubscriptionForm
@@ -42288,7 +42289,7 @@ anker.com##.inset-0.fixed
 !! .modal
 baybloorradio.com,bizpromo.co.nz,de-santis.it,thebrick.com##.modal
 !! .modal-backdrop
-baybloorradio.com,bizpromo.co.nz,de-santis.it,drinkfreshjuice.com,underarmour.ca,underarmour.cl,underarmour.co.nz,underarmour.com,underarmour.com.au,underarmour.com.br,underarmour.com.mx,underarmour.com.my,underarmour.de,underarmour.es,underarmour.eu,underarmour.fr,underarmour.it,underarmour.nl##.modal-backdrop
+baybloorradio.com,bizpromo.co.nz,de-santis.it,drinkfreshjuice.com,originpc.com,underarmour.ca,underarmour.cl,underarmour.co.nz,underarmour.com,underarmour.com.au,underarmour.com.br,underarmour.com.mx,underarmour.com.my,underarmour.de,underarmour.es,underarmour.eu,underarmour.fr,underarmour.it,underarmour.nl##.modal-backdrop
 !! underarmour
 underarmour.ca,underarmour.cl,underarmour.co.nz,underarmour.com,underarmour.com.au,underarmour.com.br,underarmour.com.mx,underarmour.com.my,underarmour.de,underarmour.es,underarmour.eu,underarmour.fr,underarmour.it,underarmour.nl###emailPopUpModal
 !! #omnisend-dynamic-container

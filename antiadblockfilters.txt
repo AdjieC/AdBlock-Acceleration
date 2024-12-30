@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: S2KXpMsMR4Y0TPFh01ItLw
-! Version: 202412300001
+! Checksum: Ol/ZVi2iBSFzGmjB/HQwBA
+! Version: 202412300551
 ! Title: Adblock Warning Removal List
-! Last modified: 30 Dec 2024 00:01 UTC
+! Last modified: 30 Dec 2024 05:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/antiadblockfilters
 ! Licence: https://easylist.to/pages/licence.html
