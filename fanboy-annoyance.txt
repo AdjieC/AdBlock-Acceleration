@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rMoyGzwEkZEkDu6iTqOeVw
-! Version: 202412311640
+! Checksum: EyyoXL0YgiflMKv1MURV6g
+! Version: 202412312315
 ! Title: Fanboy's Annoyance List
-! Last modified: 2024-12-31 16:40 UTC
+! Last modified: 2024-12-31 23:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -38528,7 +38528,7 @@ decovarrubias.es,q10gestion.com###sliding-popup-cookies
 !! .qc-cmp2-container
 centrometeoitaliano.it,in.gr,oraridiapertura24.it,order-order.com##.qc-cmp2-container
 !! .cookie-consent
-560theanswer.com,abconcerts.be,congeo.nl,forcepoint.com,geeksforgeeks.org,inleed.se,merosch.nl,niaiu.pl,peoplematters.in,plmxpert.nl,podcast.de,pukkelpop.be,sodutch.nl,springaqua.com,toneelhuis.be,vinkkoeltechniek.com,werkenbijversluis.nl##.cookie-consent
+560theanswer.com,abconcerts.be,congeo.nl,forcepoint.com,geeksforgeeks.org,inleed.se,merosch.nl,niaiu.pl,peoplematters.in,plmxpert.nl,podcast.de,pukkelpop.be,sodutch.nl,springaqua.com,toneelhuis.be,vinkkoeltechniek.com,webhallen.com,werkenbijversluis.nl##.cookie-consent
 !! cookiesConsentModal
 latitudeandlongitude.net###cookiesConsentModal
 !! #my-ctc-widget
