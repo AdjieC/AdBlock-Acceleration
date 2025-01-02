@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5DPozj9OoCcC9y0uxDGW0w
-! Version: 202501012315
+! Checksum: 2e0e2uMhIjIWb4UYV+wzCQ
+! Version: 202501020515
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-01-01 23:15 UTC
+! Last modified: 2025-01-02 05:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -729,7 +729,6 @@ _social_footer_
 /am2-gdpr-public.js
 /amasty/amgdpr/cookie.js
 /amasty/amgdpr/main.js
-/amasty_gdprfrontendui/*
 /amCookieApproval.min.js
 /amds-cookies.js
 /amp-consent-
@@ -13269,7 +13268,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ###ac_cookie_bar
 ###ac_cookiebanner
 ###ac_cookiesvalidation
-###acb-banner
 ###accept-cookie-bar
 ###accept-cookie-box
 ###accept-cookie-compliance-section
@@ -36867,7 +36865,6 @@ lovehoney.co.uk,lovehoney.com.au##.dis_message
 btlaw.com##.disclaimer-container
 taste.com.au##.disclaimer-note
 armdocs.com##.disclaimer-notice
-cheynecapital.com##.disclaimer-overlay
 news.com.au##.disclaimer-text
 joom.com##.disclaimer___z2DLJ
 xmarkets.db.com##.disclaimer_web
@@ -38463,6 +38460,8 @@ aminarubinacci.it,astromagazin.ro,atlasstoked.com,avlonbg.com,butor-mirjan24.hu,
 bargainmax.co.uk,cam4.com,ddctoolbox.com,pusher.com##div[class^="CookiesConsent"]
 !! class*="CookieConsent"
 bungie.net,certik.com,etonshirts.com,footshop.com,forzafootball.com,get-in-engineering.de,heavenhr.com,mec.ca,penpot.app,pictogrammers.com,podimo.com,prezly.com,print24.com,repvue.com,scmagazine.com,scworld.com,sierranevada.es,visitstockholm.com,zilliz.com##div[class*="CookieConsent"]
+!! .disclaimer-overlay
+cheynecapital.com,community.hero-wars.com##.disclaimer-overlay
 !! .consent-banner
 answers.unity.com,fox.com.tr,gameduell.de,interchalet.de,iziwork.com,jrc.cz,justwatch.com,loudwire.com,navicat.com,nowtv.com.tr,ring.com,screencrush.com,smarty.cz,stromvergleich.de,twitch.tv##.consent-banner
 !! .dialog-lightbox-message
@@ -48194,7 +48193,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||se.com/myschneider/assets/onetrust.$~third-party
 @@||securiti.ai^$script,domain=alaskaair.com|hertz.at|hertz.co.uk|hertz.de|hertz.es|hertz.fi|hertz.fr|hertz.ie|hertz.it|hertz.no|hertz.pt|hertz.se
 @@||shop.bora-sauna.de/components/cookieconsent2/build/cookieconsent.min.js
-@@||shop.tudelft.nl/*/Amasty_GdprFrontendUi/$script,~third-party
 @@||sonnenverlauf.de/scripts/cookieconsent.min.js$~third-party
 @@||sourcepoint.mgr.consensu.org^$domain=t3n.de
 @@||sourcepointcmp.bloomberg.*/mms/get_site_data?$domain=bloomberg.co.jp|bloomberg.com
@@ -48288,7 +48286,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||idg.se/idg-consent.min.js$script
 @@||internazionale.it/assets/js/cookies_gdpr.js?
 @@||iubenda.com^$script,stylesheet,subdocument,xmlhttprequest,domain=105.net|3bmeteo.com|all3dp.com|ansa.it|artribune.com|automoto.it|brutkasten.com|cagliaripad.it|capital.it|cdt.ch|centrometeoitaliano.it|cioccolatonippon.it|darkhorizons.com|deejay.it|delladio.it|gelocal.it|huffingtonpost.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|ilsecoloxix.it|kisskiss.it|lastampa.it|leanplayer.com|leggo.it|m2o.it|mediaset.it|mee6.xyz|meteo.it|moto.it|movieplayer.it|mowmag.com|multiplayer.it|onepodcast.it|player.boom973.com|r101.it|radiomontecarlo.net|repubblica.it|rockol.it|saratoga.it|skuola.net|today.it|tomshw.it|virginradio.it
-@@||jmldirect.com/*/Amasty_GdprFrontendUi/$~third-party
 @@||k-einbruch.de/typo3conf/ext/codetris_propk/Resources/Public/JavaScript/main/cookie_consent.js$~third-party
 @@||kalaydo.de^*/cookie-consent.jsc.js$domain=kalaydo.de
 @@||kjellmann.no^*/cookielaw/css/cookielaw.css$stylesheet
@@ -48300,7 +48297,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||my.sevdesk.de/shared/components/CookieConsent/CookieConsentModal.html$xmlhttprequest
 @@||myequals.net^*/cookiesConsent.json$~third-party
 @@||mymuesli.com/assets/js/cookiespopup.js$script
-@@||newbalance.co.id/static/*/Amasty_GdprFrontendUi/js/cookies.js$script,~third-party
 @@||nowegumy.pl/cookiecuttr.js
 @@||openai.com/compliance/cookie_consent/$~third-party
 @@||orangeclickmedia.com/tech/libs/js.cookie.min.js$domain=protothema.gr
