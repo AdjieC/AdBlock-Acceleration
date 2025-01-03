@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VMPA92Kr8n1lHlQ9bC/MTQ
-! Version: 202501021715
+! Checksum: nszKzP1YZf3hFJx7NyMuVg
+! Version: 202501022315
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-01-02 17:15 UTC
+! Last modified: 2025-01-02 23:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -36301,6 +36301,7 @@ neuralink.com##._cookiePopup_hshe1_11
 bitvavo.com##._cookiePresenter_isjkl_1
 pixiv.net##._gdpr-notify-header
 dic.pixiv.net##._gdpr-notify-header_replace
+getblock.io##._getblock_ui_cookie_1m598_1
 instagram.com##._he402
 my.macpaw.com##._notification_qpb1z_1
 abplive.com##._p_policy
@@ -38233,7 +38234,7 @@ freshcart.se,ninelife.no,store.pw.live##.FeatureBar_root___INU8
 !! .v-overlay
 abnt.org.br,adressen.schober.de,andyguitar.co.uk,bimedis.ru,ichbindeinauto.de,mp.cz,order.fiveguys.fr,promotionbasis.de,rypsv.scot,trustpid.com##.v-overlay
 !! .cky-consent-container
-abels.co.uk,beebeeboard.com,cetpenedes.cat,christmasworld.net,coolmaterial.com,cvonline.varbamisteenused.ee,eurooptions.co.uk,saperesalute.it,wintermeeting.escrs.org##.cky-consent-container
+abels.co.uk,beebeeboard.com,cetpenedes.cat,christmasworld.net,coolmaterial.com,cvonline.varbamisteenused.ee,eurooptions.co.uk,saperesalute.it,usavellino1912.com,wintermeeting.escrs.org##.cky-consent-container
 !! Cookie_
 appmetrica.yandex.com,sook.space##[class^="Cookie_"]
 !! .tws-accept-cookies--wrapper
@@ -43104,6 +43105,7 @@ homap.fr##.share_content_button
 rtl.fr##.shared-logo
 boursedirect.fr##.slide-share
 nawaat.org##.social-list-single
+agroligne.com##.social-media-inner
 phonandroid.com##.social-networks
 francetvinfo.fr##.social-zone__wrapper
 pix-geeks.com##.social_icons
