@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UzN6PbL/5Rus9VMJ12t3ew
-! Version: 202501042351
+! Checksum: FC2AayO2RdbCXX3Ih7VDHA
+! Version: 202501050551
 ! Title: Adblock Warning Removal List
-! Last modified: 04 Jan 2025 23:51 UTC
+! Last modified: 05 Jan 2025 05:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/antiadblockfilters
 ! Licence: https://easylist.to/pages/licence.html
@@ -1750,7 +1750,6 @@ vsaduidoma.com##.ABD_display_wrapper
 eurabota.com##.abtop
 sprashivalka.com##.ad
 topcraft.ru##.ad-info
-besplatka.ua##.adBl
 bycard.by,goodfon.ru,old-games.ru,satsis.info,swordmaster.org##.adb
 vsadu.ru##.adb-block
 andevice.ru,dietdo.ru##.adb-def
