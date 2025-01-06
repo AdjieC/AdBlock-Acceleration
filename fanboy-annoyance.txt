@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6yZrWxw+laqxkFf/K0VDEQ
-! Version: 202501051715
+! Checksum: HvyKwn7MneonB2N17b7z8Q
+! Version: 202501052340
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-01-05 17:15 UTC
+! Last modified: 2025-01-05 23:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -18617,7 +18617,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ###m-cookie
 ###m-cookie-info
 ###m-cookie-overlay
-###m-cookienotice
 ###m-global-disclaimer
 ###m-notification-cookie
 ###m31CookieInfo
@@ -36671,7 +36670,6 @@ monarchmoney.com##.cookie-consent-banner--container
 dreamingreece.com##.cookie-consent-inner
 cameronhouse.co.uk,postimees.ee##.cookie-container
 home.cricketwireless.com##.cookie-dialog__container
-ford.co.uk,news.northeastern.edu,theatlantic.com##.cookie-disclaimer
 chargie.com##.cookie-div-block
 evoto.ai##.cookie-drawer-container
 tachyon.eco##.cookie-exp
@@ -38120,6 +38118,8 @@ wayfair.co.uk,wayfair.de,wayfair.ie##.FooterPopups
 roninwear.com,roninwear.de,roninwear.fi,roninwear.fr,roninwear.hu,roninwear.it,roninwear.pt,roninwear.us###wrapper-dx-coki
 !! ##div[class^="cookie__"]
 4templates.com,epal.gg,thegoodocs.com,thewallsthotel.com##div[class^="cookie__"]
+!! .cookie-disclaimer
+ford.co.uk,news.northeastern.edu,theatlantic.com,tous.com##.cookie-disclaimer
 !! ###iubenda-cs-banner
 all3dp.com,meteo.it,unitedmusic.com###iubenda-cs-banner
 !! #ism-consent-box
