@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FHznt0Z59LrsgF7ZGEg56Q
-! Version: 202501071140
+! Checksum: 1UWYwmRCpqEIti/zlGuhNQ
+! Version: 202501071715
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-01-07 11:40 UTC
+! Last modified: 2025-01-07 17:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -28063,7 +28063,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ##.tv2-js-cookie-alert
 ##.tvcmscookies-notice
 ##.tw-cookie
-##.tw-user-consent-container
 ##.twindigital-cookie-consent
 ##.twt-cookies-banner
 ##.tx-conn-cookie-consent
@@ -28517,7 +28516,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ##app-cookie
 ##app-cookie-banner
 ##app-cookie-bar
-##app-cookie-consent
 ##app-cookie-consent-banner
 ##app-cookie-consent-feature
 ##app-cookie-consent-modal
@@ -38665,7 +38663,7 @@ alfred.com,amino.dk,gigaom.com,gq.com.au,henrilloyd.com,hesapkurdu.com,hvylya.ne
 !! #privacy-policy
 104.ua,atlanticsuperstore.ca,bostools.nl,nofrills.ca,planetfitness.com,realcanadiansuperstore.ca,wccaviation.com###privacy-policy
 !! cdk-overlay-container
-afiklmem.com,antenne.at,ars.particify.de,betsafe.ee,betsafe.lv,biblio.cyldigital.es,canadasbusinessregistries.ca,casino.dk,clashapp.co,collibris-app.com,earnweb.com,educont.ru,ekuriren.se,eprimego.com,eqmac.app,flyingblue.us,fr.vanguard,iconnectfx.com,inshared.nl,it.vanguard,jobsforgeek.com,jobware.de,kauppakeskuswilla.fi,kkuriren.se,mediaportal.regione.lombardia.it,mobilbahis623.com,nl.vanguard,nordicbet.dk,nordpoolgroup.com,rekonise.com,shopstyle.co.uk,skiclub-villingen.de,spedition.de,tacobot.tf,townsmith.de,vanguard.co.uk,vanguardmexico.com##.cdk-overlay-container
+afiklmem.com,antenne.at,ars.particify.de,betsafe.ee,betsafe.lv,biblio.cyldigital.es,booking.autopartner.dk,canadasbusinessregistries.ca,casino.dk,clashapp.co,collibris-app.com,earnweb.com,educont.ru,ekuriren.se,eprimego.com,eqmac.app,flyingblue.us,fr.vanguard,iconnectfx.com,inshared.nl,it.vanguard,jobsforgeek.com,jobware.de,kauppakeskuswilla.fi,kkuriren.se,mediaportal.regione.lombardia.it,mobilbahis623.com,nl.vanguard,nordicbet.dk,nordpoolgroup.com,rekonise.com,shopstyle.co.uk,skiclub-villingen.de,spedition.de,tacobot.tf,townsmith.de,vanguard.co.uk,vanguardmexico.com##.cdk-overlay-container
 !!  #cdk-overlay-0
 cs.android.com,source.chromium.org###cdk-overlay-0
 !! .trackingmanager
@@ -45133,6 +45131,7 @@ septima.dk##.septimacc
 marpro.dk##.sh-page-notice
 akurat.dk##.wpc-overlay
 akurat.dk##.wpc-popup
+booking.autopartner.dk##app-cookie-consent
 1508.dk##div[class^="Cookies-module-"]
 !
 ! ---------- Dutch ----------
@@ -46493,6 +46492,7 @@ incom.ru###use_cookies_message-block
 bcs.ru##.Cbh_c
 litres.ru##.CookieAcceptPopup-module__container_UndPF
 prosv.ru##.CookieAccept_root__7K7ap
+tass.ru##.CookieAcceptance_container__DbL1S
 metaratings.ru##.CookieAllowance_cookiesAllowance__78hAO
 ati.su##.CookieBanner__cookie-banner___CVp_2
 sberdisk.ru##.CookieContainer_CookieContainer__1xqA-
