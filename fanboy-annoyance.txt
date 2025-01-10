@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: d/HSfWVnPfP274Zf9srV3g
-! Version: 202501101140
+! Checksum: oleIPtdT2unH+JvJUrJhGA
+! Version: 202501101715
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-01-10 11:40 UTC
+! Last modified: 2025-01-10 17:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -45278,6 +45278,7 @@ ertflix.gr##.CookiePolicyInfo__container___2ddi-
 norlib.gr##.alertbanner
 voi-noi.gr##.bottombar
 dimotisnews.gr##.cc_obx
+welcomestores.gr##.consent-sticky-bar
 electroholic.gr##.fix-bottom
 neurocenter.gr##.gdprpop
 dustandcream.gr##.modals-wrapper
