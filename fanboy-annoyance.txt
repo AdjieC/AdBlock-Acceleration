@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SZlLDHqXH5QNkiuzckTWPg
-! Version: 202501100515
+! Checksum: d/HSfWVnPfP274Zf9srV3g
+! Version: 202501101140
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-01-10 05:15 UTC
+! Last modified: 2025-01-10 11:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -25737,7 +25737,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ##.js-cmp-cookiesBar
 ##.js-consent-banner
 ##.js-consent-bar
-##.js-consent-form
 ##.js-consent-notice
 ##.js-consent-panel
 ##.js-consent-popup
@@ -28218,7 +28217,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ##.x-cookie-disclaimer
 ##.x-cookie-open
 ##.x-cookies
-##.x-cookies-modal
 ##.x-danone-cookies
 ##.x-lgpd-popup
 ##.xcookie
@@ -33119,6 +33117,7 @@ improvethenews.org##.__floater
 nzherald.co.nz##.action-bar
 fanblogs.jp##.aff-notice
 informationweek.com##.announcement
+bing.com##.b_bnp_bopc
 startpage.com##.banner-top
 tmz.com##.browser-notifications-prompt
 romaniajournal.ro##.bs-push-noti
@@ -41140,6 +41139,7 @@ foxnews.com##.advanced.embed-media:has-text(Get a daily look)
 marketbeat.com##.align-items-center.py-2:has-text(Sign Up)
 dailystar.co.uk##.article-body > p:has-text(sign up for our newsletters)
 dailydot.com##.article-content-wrapper > p:has-text(into your inbox)
+nzherald.co.nz##.article__body--botttom > div > p:has-text(a free newsletter)
 thetransmitter.org##.bg-cover:has-text(Sign up)
 forksoverknives.com##.bg-fok-gray-500:has-text(Join our mailing list)
 bigthink.com##.bg-gray-100:has-text(newsletter)
