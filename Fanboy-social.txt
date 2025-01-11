@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PjPVHM3UroBzyouTn5gE8Q
-! Version: 202501111151
+! Checksum: KB7Cu0F8bfwXB6Ix9Yw/HA
+! Version: 202501111751
 ! Title: Fanboy's Social Blocking List
-! Last modified: 11 Jan 2025 11:51 UTC
+! Last modified: 11 Jan 2025 17:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10493,6 +10493,7 @@ livenation.co.nz###social-component
 breitbart.com###social-follow-sidebar-widget
 coindesk.com###social-icons-box
 cyclingstage.com###social-media
+qcitymetro.com###social-nav-contain
 seibertron.com###social-networking
 fangoria.com###social-promotion
 battlefordsnow.com,everythinggp.com,huskiefan.ca,larongenow.com,lethbridgenewsnow.com,meadowlakenow.com,nanaimonewsnow.com,northeastnow.com,panow.com,rdnewsnow.com,rocketfan.ca,royalsfan.ca,sasknow.com,vernonmatters.ca###social-share-icons
