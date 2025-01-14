@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JqrtZdBkVDXrz6WKBK/JqA
-! Version: 202501141115
+! Checksum: 5JWsKn0f2TezrMxRpsMPIg
+! Version: 202501141740
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-01-14 11:15 UTC
+! Last modified: 2025-01-14 17:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -21527,7 +21527,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ##.boxContentCookie
 ##.box_Cookie
 ##.box_cookie
-##.box_cookie_allow
 ##.box_cookies
 ##.boxzilla-cookies-popup
 ##.bp-cookie-banner
@@ -42605,7 +42604,6 @@ mastory.jp##.qualvaBtn
 news.yahoo.co.jp##.riff-BackTop__root
 sp.nicovideo.jp##.searchResult-nicoadNicodicItem
 sofmap.com##.side_bnr
-nicovideo.jp##div[class*="anim-n_slideFadeInFromBottom"]:not([aria-label]):has(a[data-anchor-area$="floating_premium_banner"])
 qiita.com##div[data-testid="popup-login"]
 ||amazonaws.com/cdn.ma-site.com/common/chatbots.js$domain=mastory.jp
 ||api.popin.cc^$third-party
@@ -45555,6 +45553,7 @@ narita-koi.com##.CookieConfirm
 tokyotokyo.jp##.annotation-area
 knb.ne.jp##.atention_cookie
 nhk.or.jp##.bottom_optout_announce
+moresco.co.jp##.box_cookie_allow
 ebarafoods.com##.consent_c
 more.hpplus.jp##.cookie-inquiry
 camp-fire.jp##.cookie-policy-agreement-notification

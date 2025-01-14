@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202501141120
+! Version: 202501141544
 ! Title: EasyPrivacy
-! Last modified: 14 Jan 2025 11:20 UTC
+! Last modified: 14 Jan 2025 15:44 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -13756,6 +13756,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.cheatography.com/banana.js
 ||data.guide.photobucket.com^
 ||data.torry.io^
+||data.ublock-browser.com^
 ||data.webullfintech.com/event/
 ||data.whop.com/api/v1/track/
 ||data.younow.com^
