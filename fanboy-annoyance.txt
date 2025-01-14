@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yEAqyA4royuxdSF5QxhAPA
-! Version: 202501140440
+! Checksum: JqrtZdBkVDXrz6WKBK/JqA
+! Version: 202501141115
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-01-14 04:40 UTC
+! Last modified: 2025-01-14 11:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -17777,7 +17777,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ###gdprCookie
 ###gdprCookieBanner
 ###gdprCookieBanner--custom
-###gdprCookieConsentManagedSummary
 ###gdprCookieLaw
 ###gdprCookiePolicy
 ###gdprCookiePopup
@@ -17788,7 +17787,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ###gdprHeader
 ###gdprLPDialog
 ###gdprLPDialog_modal
-###gdprLegalNotification
 ###gdprMessage
 ###gdprNotice
 ###gdprNotification
@@ -25253,7 +25251,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ##.gdprCookieLaw
 ##.gdprCookieWrapper
 ##.gdprForm
-##.gdprLegalNotification
 ##.gdprManagerMessage
 ##.gdprMessage
 ##.gdprNotice
@@ -47938,6 +47935,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||kuechencenterweber.de/js/cookiebanner.js$~third-party
 @@||lacoste.com^*/cookie-consent.js
 @@||leanlibrary.com/wp-content/plugins/complianz-gdpr/assets/js/cookieconsent.min.js$~third-party
+@@||learn.inesdi.com/webapps/privacy-disclosure/js/cookieconsent.js$~third-party
 @@||lecourrier-du-soir.com^*/uk-cookie-consent-js
 @@||lightningmaps.org^*/cookieconsent.$script,stylesheet
 @@||lockwood-avenue.com^*/cookielaw/$~third-party
