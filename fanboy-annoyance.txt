@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sVtVlfrLMt29RETlLjZIyw
-! Version: 202501131640
+! Checksum: yEAqyA4royuxdSF5QxhAPA
+! Version: 202501140440
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-01-13 16:40 UTC
+! Last modified: 2025-01-14 04:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -14745,9 +14745,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ###cookie-lightbox
 ###cookie-line
 ###cookie-list
-###cookie-manager
-###cookie-manager-dialog
-###cookie-manager-wrapper
 ###cookie-mask
 ###cookie-melding
 ###cookie-melding-container
@@ -16393,7 +16390,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ###cookies-policy-prompt
 ###cookies-policy-warning
 ###cookies-policy-wrapper
-###cookies-politics
 ###cookies-pop-out
 ###cookies-pop-up
 ###cookies-popapito
@@ -32488,6 +32484,7 @@ gettr.com##img[alt="GETTR coin"]
 airfry.pro##.bg-gradient-to-br:has-text(Cookbook)
 nzherald.co.nz##.element-action-button:has-text(SHARE YOUR STORY)
 laravel-news.com##.mt-10:has-text(Laravel Jobs)
+twitch.tv##.player-overlay-background:has-text(Consider Turbo)
 theintercept.com##.text-\[18px\]:has-text(Support Us)
 twitter.com,x.com##aside[role="complementary"]:has(> a[href="/i/premium_sign_up"])
 dailysignal.com#?#.tds-content > p:-abp-contains(Donate now)
@@ -33331,8 +33328,10 @@ cryptonews.net##.download_the_app
 zomato.com##.drRXJW
 al-sharq.com##.dwn-app
 noelleeming.co.nz##.dy_bottom_notification
+olightstore.com##.e1ngphod0
 actionnetwork.com##.e7h0b9a0
 probuilds.net##.experiment-height-expanded
+m.glassesusa.com##.fHyEeP.aHyEeP
 marokko.nl##.floatbar
 cookpad.com##.footer-1azakc
 myanimelist.net##.footer-app
@@ -33374,6 +33373,7 @@ ecaytrade.com##.install-button
 news18.com##.install_app_float
 news18.com##.instlsapp_fxd
 terabox.com##.introduce-sticky-btn
+lensdirect.com##.ios-app-install
 ticketmaster.com##.jBEXsA
 ticketmaster.com##.jDQUfz
 dietplus.jp##.js-app-bg
@@ -35400,6 +35400,7 @@ viavisolutions.com###cookieRibbon
 bulgarianproperties.com###cookie_bar_new
 semiconductor.samsung.com###cookie_component_emea
 sendgb.com###cookie_disabled
+halcyon.net###cookie_info
 search.podcastmusic.com,sourceaudio.com###cookie_manager
 groners.com###cookiebanner_bg
 download.pixelexperience.org###cookieconsent\:desc
@@ -36285,7 +36286,7 @@ tax.service.gov.uk##.cbanner-govuk-cookie-banner
 jadlonomia.com##.cbar-container
 currencyrate.today##.cc-alert
 viralnova.com##.cc-banner
-koodous.com,rotapanel.com##.cc-bottom
+dirdirect.com,koodous.com,rotapanel.com##.cc-bottom
 wallpapershome.com##.cc-dialog
 download.pixelexperience.org##.cc-dismiss.cc-btn
 pronouns.page##.cc-modal
@@ -38005,6 +38006,8 @@ antiquebike.se,davidsonsskomakeri.com,konstgjordavaxter.se,rocksmineral.se,small
 onepercentclub.com,samenvoordebuurt.nl##.notification-bar-container
 !! #gdpr-blocking-page-overlay
 kidly.com,loopearplugs.com,wearewild.com###gdpr-blocking-page-overlay
+!! .ch2
+cb.is,jobsinadtech.com,pcdiga.com##.ch2
 !! #popupDivC
 loi.it,panzerionline.com,rotta.it,safelserramenti.com###popupDivC
 !! .popup--cookies
@@ -38056,7 +38059,7 @@ delfi.ee,fahrrad-xxl.de,maxict.nl,mook.com.tw,paposertanejo.com,plus.pl,plushbez
 !! .cookie-wrapper
 pickmypostcode.com##.cookie-wrapper
 !! .cc
-bdsi.de,duh.de,hyle.appspot.com,johanneswerk.de,niederoesterreich-card.at##.cc
+bdsi.de,duh.de,hyle.appspot.com,johanneswerk.de,niederoesterreich-card.at,scoutcampers.com##.cc
 !! #cc_div
 antennafebea.it,doctoranytime.gr,legalblink.it,lifestyleblog.it,netzreform.de,opensocietyfoundations.org,otter.finance,sprintesport.it,stanceldavid.sk,sulpanaro.net###cc_div
 !! .cc_div
@@ -45120,7 +45123,6 @@ lehtodigital.fi##.__ld_cookies
 hk.fi##.animate.mask
 bolt.works##.bolt-cookie-banner
 vertaa.fi##.cg-97
-kirjastot.fi##.ch2-dialog-bottom
 valotehdas.fi##.cli-popupbar-overlay
 jenkki.fi##.container-agree
 hk.fi##.cookie-notice-lightbox
@@ -45299,7 +45301,6 @@ laugavegshlaup.is,rmi.is##.Gdpr_gdpr__3CNbq
 arnastofnun.is##._sam_ga_info
 heimildin.is,stundin.is##.bottom-banner
 visir.is##.bottom-disclaimer
-cb.is##.ch2
 crunch.is##.cooBox
 vodafone.is##.dismissable-terms
 landsbankinn.is##.e1vl7zat10
@@ -46074,7 +46075,6 @@ suasvendas.com##.card.button-fixed
 casaevideo.com.br##.casaevideonewio-store-theme-8-x-container
 pelando.com.br##.cbZEFj
 mercadoveggie.com.br##.center-bottom-fixed
-pcdiga.com##.ch2
 proximo.pt##.chakra-modal__content-container
 proximo.pt##.chakra-modal__overlay
 moto.com.br##.chakra-portal
