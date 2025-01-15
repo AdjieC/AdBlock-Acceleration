@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /jTuXROdOPRCh0T7a3gL5Q
-! Version: 202501141751
+! Checksum: rUjMMfP0mApvJjVMfvxo5Q
+! Version: 202501150001
 ! Title: Fanboy's Social Blocking List
-! Last modified: 14 Jan 2025 17:51 UTC
+! Last modified: 15 Jan 2025 00:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11633,7 +11633,7 @@ carnewschina.com##.telegram-scrolling
 asiaone.com##.telegram-share-wrapper
 insidebitcoins.com##.telegrame_cta_content
 decrypt.co##.text-neutral-700
-bitcoinsensus.com##.the_champ_sharing_container
+bitcoinsensus.com,cnio.es##.the_champ_sharing_container
 twitchy.com##.thm-sc
 chinadaily.com.cn##.three-right
 favpng.com##.thumbnail_pinit
