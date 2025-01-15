@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rUjMMfP0mApvJjVMfvxo5Q
-! Version: 202501150001
+! Checksum: ffBAy5yiJAjXr2+lUnTvAw
+! Version: 202501150551
 ! Title: Fanboy's Social Blocking List
-! Last modified: 15 Jan 2025 00:01 UTC
+! Last modified: 15 Jan 2025 05:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11818,6 +11818,7 @@ dailymail.co.uk,thisismoney.co.uk##ul[class^="linksHolder-"]
 foxnews.com##.article-meta-lower:has(.article-social)
 thedispatch.com##.border-y.py-2:has-text(Share)
 appleinsider.com##.col-xs-12 > div:has-text(Follow AppleInsider)
+theguardian.com##.dcr-4gwv1z > ul:has-text(Get our)
 newskarnataka.com##.elementor-button-wrapper:has-text(Social Media)
 bitcoinsensus.com##.elementor-heading-title:has-text(SHARE)
 freethoughtnow.org##.elementor-widget-container > h2:has-text(Please share)
