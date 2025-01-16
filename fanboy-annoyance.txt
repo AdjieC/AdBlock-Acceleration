@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c+0kaf5PYCcL1pwmuVasvQ
-! Version: 202501160515
+! Checksum: SDe2MFoDzmloRXEtSXHX/w
+! Version: 202501161115
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-01-16 05:15 UTC
+! Last modified: 2025-01-16 11:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -32349,6 +32349,7 @@ cpuid.com##.widget-advert-336
 gulftoday.ae##.widget-advertisement-card
 startpage.com##.widget-install-legacy
 chicagoreporter.com##.widget-support-tcr
+religionnews.com##.widget.post-donation-callout-container
 factcheck.org##.widget_factcheck_donate_widget
 lithub.com##.widget_media_image
 grist.org##.wp-block-article-donation
@@ -34621,6 +34622,7 @@ eetimes.com##.socialNav
 ruwix.com##.socialShareLinks
 tech.hindustantimes.com##.socialWidgets
 faithwire.com,rtvs.sk##.social__buttons
+agbi.com##.social__link
 jetphotos.com##.social__link--share
 moroccoworldnews.com##.social__media
 eurovisionworld.com##.social_a
@@ -35316,6 +35318,7 @@ bulgarianproperties.com###cookie_bar_new
 semiconductor.samsung.com###cookie_component_emea
 sendgb.com###cookie_disabled
 halcyon.net###cookie_info
+esa.int###cookie_loc
 search.podcastmusic.com,sourceaudio.com###cookie_manager
 groners.com###cookiebanner_bg
 download.pixelexperience.org###cookieconsent\:desc
@@ -38914,6 +38917,7 @@ sciencefocus.com,trains.com###newsletterContainer
 ginospizza.ca###newsletterSignUp
 usafacts.org###newsletter__sticky
 messengernews.net,miningjournal.net,minotdailynews.com,salemnews.net###newsletter_article
+religionnews.com###newsletter_sidebar_widget-3
 core77.com###newsletter_signup
 91mobiles.com###newsletter_subscribe
 rigzone.com###newsletter_subscription
@@ -39901,6 +39905,7 @@ atlasobscura.com##.js-email-ask-form
 premierchristian.news##.js-esend-user
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-footer-card
 reviewed.usatoday.com##.js-inline-email-cta
+agbi.com##.js-mailchimp
 datacenterdynamics.com##.js-mktoFormBlock
 usafacts.org##.js-newsletter--expand
 gamespot.com##.js-nlsub
@@ -47286,6 +47291,7 @@ niedziela.pl#@#.article-social-btn
 drive.ru#@#.article-social-container
 petsmart.com#@#.article-social-sharing
 forbes.kz,wylecz.to#@#.article__social
+agbi.com#@#.article__socials
 nbcnews.com#@#.article_share
 thetoc.gr#@#.authorSocial
 gofile.io#@#.bi-share
